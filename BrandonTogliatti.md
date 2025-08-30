@@ -9,3 +9,5 @@ this is all going to make sense and I'll be able to contribute to other things. 
 
 The video in the intro-to-git file is incredibly helpful, and I'm hoping to watch it a couple times to
 understand all of the information contained within that video, even if it is a crash course.
+
+The link to my profile README is: [togliatti-zona](https://github.com/togliatti-zona/togliatti-zona)
